@@ -1,5 +1,3 @@
-# 12306dataset
-PS D:\GITHOME\12306dataset\12306dataset> .\dir.ps1
 输入 md 由文本生成目录,输入 mt 由目录生成文本: md
 输入文本路径: ./label.txt
 输入文件夹目录: D:/12306image
